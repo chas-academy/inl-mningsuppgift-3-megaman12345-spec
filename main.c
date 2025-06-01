@@ -3,8 +3,8 @@
 
 
 // This is where you add the function calculate_hypotenuse
-float calcuate_hypotenuse(float a, float b){
-    float c = sqrt(pow(a,2)+pow(b,2));
+float calculate_hypotenuse(float a, float b){
+    float c = sqrt(pow(a, 2)+pow(b, 2));
     return c;
 }
 
